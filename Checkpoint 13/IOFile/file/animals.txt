@@ -1,0 +1,8 @@
+Cat
+Dog
+Bear
+Moose
+Zebra
+Lion
+Tiger
+Gorilla

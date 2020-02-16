@@ -1,0 +1,2 @@
+API Key - trnsl.1.1.20190528T031652Z.482b8ef596d4fb28.f55592a1268ae66faf5206ef0a1491196acd092a
+https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20190528T031652Z.482b8ef596d4fb28.f55592a1268ae66faf5206ef0a1491196acd092a&text=hello&lang=nl&options=1
