@@ -5,10 +5,10 @@ This repo contains all the small projects developed during the Otago Polytechnic
 Language Translator: https://github.com/Carthur-P/Language-Translator
 
 ## Technologies Used
-Java  
-Android Studio 
-Phone Emulators 
-API  
+Java    
+Android Studio   
+Phone Emulators   
+API    
 
 ## Things I Learnt
 - Event-driven programming
